@@ -1,0 +1,44 @@
+[
+    {
+        "title": "Blitzscaling",
+        "author": "Reid Hoffman and Chris Yeh",
+        "image": "Book1.jpg",
+        "description": "Explores rapid scaling strategies for startups in uncertain markets to achieve market dominance.",
+       
+    },
+    {
+        "title": "The Startup Owner's Manual",
+        "author": "Steve Blank and Bob Dorf",
+        "image": "Book2.jpg",
+        "description": "A comprehensive guide detailing the customer development process essential for building a scalable and successful startup.",
+        
+    },
+    {
+        "title": "The $100 Startup",
+        "author": "Chris Guillebeau",
+        "image": "Book3.jpg",
+        "description": "Chronicles inspiring stories of individuals who started successful businesses on a minimal budget, emphasizing creativity and ingenuity.",
+        
+    },
+    {
+            "title": "Rework",
+            "author": "Jason Fried and David Heinemeier Hansson",
+            "image": "Book4.jpg",
+            "description": "Challenges conventional business strategies, offering straightforward, counterintuitive advice to help anyone build a better business faster.",
+           
+    },
+    {
+            "title": "The Innovator's Dilemma",
+            "author": "Clayton M. Christensen",
+            "image": "Book5.jpg",
+            "description": "Discusses how successful companies can do everything right and still lose their market leadership due to disruptive technologies.",
+            
+    },
+    {
+            "title": "Zero to One",
+            "author": "Peter Thiel with Blake Masters",
+            "image": "Book6.jpg",
+            "description": "Encourages entrepreneurs to create new products that bring society from zero to one rather than iterating on existing products.",
+            
+        },
+]
